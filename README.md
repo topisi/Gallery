@@ -1,1 +1,1 @@
-The Gallery contains my own work that I give to public domain under the CC0 - 1 license.
+The Gallery contains my own work that I give to public domain under the CC0 - 1.0 license.
